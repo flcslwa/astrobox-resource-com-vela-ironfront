@@ -1,0 +1,61 @@
+{
+  "item": {
+    "id": "com.vela.ironfront",
+    "restype": "quick_app",
+    "name": "卡牌战争（钢铁战线）",
+    "description": "把手环变成战场：3 战位、36 张卡，抬手打一局《钢铁战线》\n\n手环上能玩的卡牌不少，但大多是翻牌、猜拳、点点点。 《钢铁战线》是真打：3 条战线、5 大兵种、36 张卡、10 个关键词，单局 3–5 分钟，通勤、排队、睡前都能来一把。\n\n步兵/装甲只能打同列，炮兵能轰任意单位但轰不到指挥部，空军全图打击；\n被打的单位会反击，换血前得先算清楚；\n闪击、护甲、溅射、亡语、动员、穿透、隐蔽、防空、破甲、鱼雷，36 张卡能打出快攻、消耗、空袭几种套路；\n专为小屏重做的大字版：卡名 15px、攻防 20px，1.6 寸屏不眯眼；\n纯单机离线，不连手机、不耗流量、无广告无内购，安装包只有 63KB；\n赢一局解锁一张卡，AI 随胜场变强；手环 9/10/11 都适配；",
+    "preview": [
+      "media/preview-battle.png",
+      "media/preview-home.png",
+      "media/preview-collection.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/promo-3x2.png",
+    "author": [
+      {
+        "name": "flcslwa",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买网址：",
+      "url": "https://ifdian.net/item/53b6bf96dfdb11f1898d52540025c377",
+      "icon": "link-simple-break"
+    },
+    {
+      "title": "激活网址：",
+      "url": "https://www.thtd2026.top/",
+      "icon": "link-simple-break"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.vela.ironfront.rpk",
+      "versionCode": 4
+    },
+    "xmb11nfc": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.vela.ironfront.rpk",
+      "versionCode": 4
+    },
+    "xmb11": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.vela.ironfront.rpk",
+      "versionCode": 4
+    },
+    "xmb10nfc": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.vela.ironfront.rpk",
+      "versionCode": 4
+    },
+    "xmb10": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.vela.ironfront.rpk",
+      "versionCode": 4
+    }
+  },
+  "ext": {}
+}
