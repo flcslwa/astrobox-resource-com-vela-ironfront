@@ -33,29 +33,29 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.3.1",
-      "file_name": "downloads/ironfront-1.3.1-jsc.rpk",
-      "versionCode": 10
+      "version": "1.3.2",
+      "file_name": "downloads/com.kpzz.ironfront-jsc.rpk",
+      "versionCode": 11
     },
     "xmb11nfc": {
-      "version": "1.3.1",
-      "file_name": "downloads/ironfront-1.3.1-jsc.rpk",
-      "versionCode": 10
+      "version": "1.3.2",
+      "file_name": "downloads/com.kpzz.ironfront-jsc.rpk",
+      "versionCode": 11
     },
     "xmb11": {
-      "version": "1.3.1",
-      "file_name": "downloads/ironfront-1.3.1-jsc.rpk",
-      "versionCode": 10
+      "version": "1.3.2",
+      "file_name": "downloads/com.kpzz.ironfront-jsc.rpk",
+      "versionCode": 11
     },
     "xmb10nfc": {
-      "version": "1.3.1",
-      "file_name": "downloads/ironfront-1.3.1-jsc.rpk",
-      "versionCode": 10
+      "version": "1.3.2",
+      "file_name": "downloads/com.kpzz.ironfront-jsc.rpk",
+      "versionCode": 11
     },
     "xmb10": {
-      "version": "1.3.1",
-      "file_name": "downloads/ironfront-1.3.1-jsc.rpk",
-      "versionCode": 10
+      "version": "1.3.2",
+      "file_name": "downloads/com.kpzz.ironfront-jsc.rpk",
+      "versionCode": 11
     }
   },
   "ext": {}
